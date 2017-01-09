@@ -6,3 +6,6 @@ can use fastdep and ccache to speed up builds if you have them installed.
 To build: run `pkgman install devel:libpcre` and then run `./buildsuite.sh`.
 
 LICENSE: MIT.  
+
+
+This is a test
